@@ -64,7 +64,7 @@ Four classification models were trained and evaluated on an 80-20 train-test spl
 
 Plaintext
 Holiday-Package-Prediction/
-│
+
 ├── Holiday_Package_Prediction.ipynb
 ├── Travel.csv
 ├── auc.png
